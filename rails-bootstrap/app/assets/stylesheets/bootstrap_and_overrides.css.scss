@@ -1,0 +1,23 @@
+body { padding-top: 60px; }
+.copyright {
+  margin-top: 30px;
+  height: 60px;
+  line-height: 55px;
+  background: #101010;
+}
+.copyright_box {
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+.radio {
+  display: inline-block !important;
+  padding-left: 50px !important;
+}
+
+.controls > label.radio:first-child {
+  margin-top: 0px;
+}
+
+@import "twitter/bootstrap";
+
