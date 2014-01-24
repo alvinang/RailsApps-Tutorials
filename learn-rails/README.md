@@ -1,28 +1,15 @@
-== README
+## Learn Rails Tutorial by Daniel Kehoe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a tutorial from Daniel Kehoe's book learn rails [Learn Rails]: http://learn-rails.com/. He is the founder of [RailsApps]: http://railsapps.github.io/ that provides rails tutorials for building specific projects. 
 
-Things you may want to cover:
+This app is built using:
++ Ruby 2.1.0
++ Rails 4.0.0
 
-* Ruby version
+on Jan 24th, 2014. Instead of using my gmail account to send out emails, I modified it to send emails using [Mandrill]: http://mandrill.com/. 
 
-* System dependencies
+This is a great tutorial especially for those interested in learning about Gibbon gem (by mailchimp, updated recently) to build a subscription based site. 
 
-* Configuration
+Also, the gem [rails_layout]: https://github.com/RailsApps/rails_layout is extremely helpful when building apps really quickly. They help setup your rails application with a frontend framework (Zurb Foundation or Bootstrap). 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Feel free to contact me via GitHub if you have any questions, thanks!
